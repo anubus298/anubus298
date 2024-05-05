@@ -2,55 +2,47 @@
 
 I am a passionate Fullstack developer enginnering student , driven by a curiosity for technology . My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![anubus's Stats](https://github-readme-stats.vercel.app/api?username=anubus&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![anubus's Stats](https://github-readme-stats.vercel.app/api?username=anubus298&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
+- my portfolio - [Portfolio](https://safouane-portfolio.vercel.app/)
+- 🔭 I'm currently pursuing my Enginnering degree in IT at ENSA Oujda.
+- 🌐 Avid learner and proficient in both front-end and back-end development
+- ️🎨 I have a keen eye for UI design
+  
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+- No articles Yet !
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java,react,nextjs,tailwind,spring,postgres,mysql,supabase,mongodb,ps,ai,git,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+-   🌱 Delving into the Spring framework and implementing newfound knowledge in an upcoming project (stay tuned).
+-   💻 Crafting server-side applications with Next.js and Spring Boot, a dynamic duo.
+-   🔍 Exploring the realms of MongoDB and Elasticsearch.
+-   🧪 Mastering unit testing and integration tests.
+-   🐳 Learning the fundamentals of containerization, Docker, and Git Actions.
+  
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 built a fullstack ecommerce app - [SafoMart](https://github.com/anubus298/SafoMart)
+- 📱 built a social website - [Connecto](https://github.com/anubus298/Connecto)
+- ⚽ Want to know latest football matches ? - [Footuane](https://github.com/anubus298/Footuane)
+  
+
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+- Connect with me on [Linkedin](https://www.linkedin.com/in/safouane-el-arari/)
+- Email : [email](araristaf@gmail.com)
 
 
+Thanks for stopping by! Let's connect 🚀
 
-<!--
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
